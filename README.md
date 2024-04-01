@@ -8,7 +8,7 @@
 - 🌱 Learning: Machine Learning, Deep Learning, NLP, CV, Python. Want to work as ML Engineer or Data Scientist
 - 📫 How to reach me:
   * Email: sholokhova.nastia@bk.ru
-  * Telegram: @standard_fisting
+  * Telegram: @pakutm
 - 🧠My skills:
 [![My Skills](https://skillicons.dev/icons?i=cs,dart,docker,django,flutter,git,github,mysql,py,pytorch,linux,redis)](https://skillicons.dev)
 - 😄 Pronouns: She/her
