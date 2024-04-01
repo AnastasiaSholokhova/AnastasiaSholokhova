@@ -10,6 +10,6 @@
   * Email: sholokhova.nastia@bk.ru
   * Telegram: @standard_fisting
 - 🧠My skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,dart,docker,django,flutter,git,github,mysql,py,pytorch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dart,docker,django,flutter,git,github,mysql,py,pytorch,linux,redis)](https://skillicons.dev)
 - 😄 Pronouns: She/her
 - My CV: <a href="https://github.com/AnastasiaSholokhova/CV" target="_blank">CV</a>
