@@ -4,12 +4,13 @@
 <h3 align="center">Computer Science student from Russia 🇷🇺</h3>Hi there 👋
 
 
-- 🔭 Studying: NUST MISIS, 3rd year, IT major
-- 🌱 Learning: Machine Learning, Deep Learning, NLP, CV, Python. Want to work as ML Engineer or Data Scientist
+- 🔭 Studying: NUST MISIS, 4th year, IT major. Graduation in 2025.
+- 🌱 Learning: Machine Learning, Deep Learning, NLP, CV, Python, Data science. Want to work as ML Engineer or Data Scientist
+- 🔎 Science interests: Math, programming, languages, art. 
 - 📫 How to reach me:
   * Email: sholokhova.nastia@bk.ru
-  * Telegram: @pakutm
+  * Telegram: @porcelain_cat
 - 🧠My skills:
-[![My Skills](https://skillicons.dev/icons?i=cs,dart,docker,django,flutter,git,github,mysql,py,pytorch,linux,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dart,docker,django,flutter,git,github,mysql,py,pytorch,linux,redis, html, css, postgres, c)](https://skillicons.dev)
 - 😄 Pronouns: She/her
 - My CV: <a href="https://github.com/AnastasiaSholokhova/CV" target="_blank">CV</a>
