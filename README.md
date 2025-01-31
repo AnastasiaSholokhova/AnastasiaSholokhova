@@ -5,8 +5,7 @@
 
 
 - 🔭 Studying: NUST MISIS, 4th year, IT major. Graduation in 2025.
-- Working: "Transneft", part-time programmer.
-- 🌱 Learning: Machine Learning, Deep Learning, NLP, CV, Python, Data science. Want to work as ML Engineer, data scientist or fullstack developer.
+- Working: Full-stack developer. Python (django), html/css/js.
 - 🔎 Science interests: Math, programming, languages, art. 
 - 📫 How to reach me:
   * Email: sholokhova.nastia@bk.ru
